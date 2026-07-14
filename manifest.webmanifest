@@ -1,0 +1,13 @@
+{
+  "name": "Offline Player - オフライン動画再生",
+  "short_name": "Offline Player",
+  "description": "動画を端末内に保存してプレイリストでオフライン再生",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080b12",
+  "theme_color": "#080b12",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
